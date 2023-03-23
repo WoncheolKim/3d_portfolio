@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Sceience teacher",
+      title: "Science teacher",
       icon: creator,
     },
   ];
