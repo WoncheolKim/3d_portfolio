@@ -19,10 +19,10 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
     jobit,
     tripguide,
     threejs,
+    streamier,
   } from "../assets";
   
   export const navLinks = [
@@ -215,7 +215,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: streamier,
       source_code_link: "https://github.com/",
     },
     {
