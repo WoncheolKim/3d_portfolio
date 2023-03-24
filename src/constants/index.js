@@ -19,7 +19,7 @@ import {
     starbucks,
     tesla,
     shopify,
-    jobit,
+    nwitter,
     tripguide,
     threejs,
     streamier,
@@ -219,25 +219,25 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Nwitter",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Key features include real-time tweets, photo uploads, profile updates and authentication using Google/Github credentials, as well as the use of NoSQL.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "node",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "google firebase",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: nwitter,
+      source_code_link: "https://github.com/WoncheolKim/nwitter",
     },
     {
       name: "Streamiere",
@@ -245,20 +245,20 @@ import {
         "An app that functions as an IMDB clone that takes in the TMDB API and renders information of the latest movies with descriptions, images and trailers.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Javascript",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Authentication",
           color: "pink-text-gradient",
         },
       ],
       image: streamier,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/WoncheolKim/Streamiere",
     },
   ];
   

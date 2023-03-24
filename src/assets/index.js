@@ -27,7 +27,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import streamier from "./streamier.png";
-import jobit from "./jobit.png";
+import nwitter from "./nwitter.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -57,6 +57,6 @@ export {
   starbucks,
   tesla,
   streamier,
-  jobit,
+  nwitter,
   tripguide,
 };
