@@ -20,7 +20,7 @@ import {
     tesla,
     shopify,
     nwitter,
-    tripguide,
+    portfolio,
     threejs,
     streamier,
   } from "../assets";
@@ -198,16 +198,16 @@ import {
   
   const projects = [
     {
-      name: "Trip Guide",
+      name: "3D portfolio",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Developed a 3D web portfolio using React.js and Three.js to showcase both my experience and personal projects.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Three.js",
           color: "green-text-gradient",
         },
         {
@@ -215,8 +215,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: portfolio,
+      source_code_link: "https://github.com/WoncheolKim/3d_portfolio",
     },
     {
       name: "Nwitter",

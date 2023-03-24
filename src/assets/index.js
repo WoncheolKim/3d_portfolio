@@ -28,7 +28,7 @@ import tesla from "./company/tesla.png";
 
 import streamier from "./streamier.png";
 import nwitter from "./nwitter.png";
-import tripguide from "./tripguide.png";
+import portfolio from "./portfolio.png";
 
 export {
   logo,
@@ -58,5 +58,5 @@ export {
   tesla,
   streamier,
   nwitter,
-  tripguide,
+  portfolio,
 };
