@@ -198,7 +198,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Trip Guide",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -215,7 +215,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: streamier,
+      image: tripguide,
       source_code_link: "https://github.com/",
     },
     {
@@ -240,9 +240,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Streamiere",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "An app that functions as an IMDB clone that takes in the TMDB API and renders information of the latest movies with descriptions, images and trailers.",
       tags: [
         {
           name: "nextjs",
@@ -257,7 +257,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: streamier,
       source_code_link: "https://github.com/",
     },
   ];
