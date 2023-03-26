@@ -237,7 +237,7 @@ import {
         },
       ],
       image: nwitter,
-      source_code_link: "https://github.com/WoncheolKim/nwitter",
+      source_code_link: "https://woncheolkim.github.io/nwitter/",
     },
     {
       name: "Streamiere",
