@@ -21,10 +21,9 @@ import tailwind from "./tech/tailwind.png";
 import bootstrap from "./tech/bootstrap.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import sailor from "./company/sailor.png";
+import officeworker from "./company/officeworker.png";
+import engineer from "./company/engineer.png";
 
 import streamier from "./streamier.png";
 import nwitter from "./nwitter.png";
@@ -52,10 +51,9 @@ export {
   tailwind,
   bootstrap,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  sailor,
+  officeworker,
+  engineer,
   streamier,
   nwitter,
   portfolio,
