@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import sailor from "./company/sailor.png";
 import officeworker from "./company/officeworker.png";
 import engineer from "./company/engineer.png";
+import house from "./company/house.png";
 
 import streamier from "./streamier.png";
 import nwitter from "./nwitter.png";
@@ -54,6 +55,7 @@ export {
   sailor,
   officeworker,
   engineer,
+  house,
   streamier,
   nwitter,
   portfolio,
