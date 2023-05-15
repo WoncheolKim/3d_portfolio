@@ -179,7 +179,7 @@ import {
     },
     {
       testimonial:
-        "What? Why?",
+        "Cheer up!",
       name: "Sister",
       image: house,
     },
@@ -205,7 +205,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/WoncheolKim/3d_portfolio",
+      source_code_link: "https://steady-kitten-23a2ea.netlify.app",
     },
     {
       name: "Nwitter",
