@@ -77,10 +77,6 @@ import {
       name: "Bootstrap",
       icon: bootstrap,
     },
-    // {
-    //   name: "Redux Toolkit",
-    //   icon: redux,
-    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -93,10 +89,7 @@ import {
       name: "Node JS",
       icon: nodejs,
     },
-    // {
-    //   name: "MongoDB",
-    //   icon: mongodb,
-    // },
+
     {
       name: "Three JS",
       icon: threejs,
@@ -105,10 +98,7 @@ import {
       name: "git",
       icon: git,
     },
-    // {
-    //   name: "docker",
-    //   icon: docker,
-    // },
+
   ];
   
   const experiences = [
